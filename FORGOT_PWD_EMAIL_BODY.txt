@@ -1,0 +1,11 @@
+HI ${FNAME} &{LNAME},<br/><br/>
+<br/>
+<br/>
+
+Find Your Password below<br/><br/>
+
+Your Password:${PWD}
+<br/>
+<br/>
+Thanks ,
+APNA BANK

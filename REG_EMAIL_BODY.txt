@@ -1,0 +1,14 @@
+HI ${FNAME} &{LNAME},<br/><br/>
+<br/>
+Welcome to AshokIt,Your Registration almust completed.<br/><br/>
+
+<br/>
+
+Unlock Your Account Using Below Details.<br/><br/>
+
+Temporary pWd:${TEMP_PWD}<br/><br/>
+
+<a href="hhtp://localhost:4200/unlock?email=${EMIAL}">Click Here to Unlock</a><br/><br/>
+
+Thanks ,
+APNA BANK
